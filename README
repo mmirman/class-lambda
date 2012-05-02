@@ -1,17 +1,16 @@
-<h1>Dependently typed logic programming in meta-haskell!</h1>
+h1. Dependently typed logic programming in meta-haskell!
 
-<h2>Overview: </h2>
-<p>
+h2. Overview
+
 An example of using dependently typed logic programming in haskell's 
 type system to do theorem proved template black magic without templates.
-</p>
 
-<h2>Details: </h2>
-<p>
+
+h2. Details:
+
 A big step semantics for lazy lambda 
 calculus on types used on class logic programming, 
 and an Isomorphism class which forces a class and 
 instances under different data types to be isomorphic 
 to a GADT with constructors such that we the class 
 can not be instanced elsewhere with more datatypes.
-</p>
