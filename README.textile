@@ -6,7 +6,7 @@ An example of using dependently typed logic programming in haskell's
 type system to do theorem proved template black magic without templates.
 
 
-h2. Details:
+h2. Details
 
 A big step semantics for lazy lambda 
 calculus on types used on class logic programming, 
